@@ -87,6 +87,7 @@ npm run dev
 
 - [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
 - [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
+- [Site](https://brainwave-br-rho.vercel.app/)
 
 ## <a name="final-considerations">💡 Considerações Finais</a>
 
