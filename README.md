@@ -91,7 +91,7 @@ npm run dev
 ## <a name="final-considerations">💡 Considerações Finais</a>
 
 - Desenvolvido por: Davi Andion.
-- Github: [@andiondavi](https://www.linkedin.com/in/davi-andion/)
+- Github: [@andiondavi](https://github.com/andiondavi)
 - Linked in: [https://www.linkedin.com/in/davi-andion/](https://www.linkedin.com/in/davi-andion/)
 
 #
