@@ -63,7 +63,7 @@ Siga estas etapas para configurar o projeto localmente em sua máquina.
 **Clonando o Repositório**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/andiondavi/brainwave-br.git
 cd brainwave
 ```
 
